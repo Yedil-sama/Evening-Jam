@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: c04765a09c678b348a7813c2668e24a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1272063829255514324
+    second: Mute Sound_0
+  - first:
+      213: -1782229394531673730
+    second: Mute Sound_1
+  - first:
+      213: -4463360276990030130
+    second: Mute Sound_2
+  - first:
+      213: -5487833204961430064
+    second: Mute Sound_3
+  - first:
+      213: 7270813029128216266
+    second: Mute Sound_4
+  - first:
+      213: -6119016944785470896
+    second: Mute Sound_5
+  - first:
+      213: 5033417450334052862
+    second: Mute Sound_6
+  - first:
+      213: -5010934155120901080
+    second: Mute Sound_7
+  - first:
+      213: 8019012326450648552
+    second: Mute Sound_8
+  - first:
+      213: -1771242357407775775
+    second: Mute Sound_9
+  - first:
+      213: -7223021178096211550
+    second: Mute Sound_10
+  - first:
+      213: 2520058822276803371
+    second: Mute Sound_11
+  - first:
+      213: -7821923175290716113
+    second: Mute Sound_12
+  - first:
+      213: -8261311491468829597
+    second: Mute Sound_13
+  - first:
+      213: -5514287068093415894
+    second: Mute Sound_14
+  - first:
+      213: 5986145579995672411
+    second: Mute Sound_15
+  - first:
+      213: -4533200258928349193
+    second: Mute Sound_16
+  - first:
+      213: 8959597633354121266
+    second: Mute Sound_17
+  - first:
+      213: -7971921682158883549
+    second: Mute Sound_18
+  - first:
+      213: 4514397765862293834
+    second: Mute Sound_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mute Sound_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 485
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c271a9ddfa8b85ee0800000000000000
+      internalID: -1272063829255514324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 467
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e791eaeeecf3447e0800000000000000
+      internalID: -1782229394531673730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 467
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece8b69d975fe02c0800000000000000
+      internalID: -4463360276990030130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 467
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d53eaf96cc47d3b0800000000000000
+      internalID: -5487833204961430064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 472
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace18757ded17e460800000000000000
+      internalID: 7270813029128216266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 467
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a47773282e41ba0800000000000000
+      internalID: -6119016944785470896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 472
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e96db08a4ad540800000000000000
+      internalID: 5033417450334052862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 467
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824852b5fe5957ab0800000000000000
+      internalID: -5010934155120901080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 467
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5d19f6931494f60800000000000000
+      internalID: 8019012326450648552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 467
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3859bd5784b67e0800000000000000
+      internalID: -1771242357407775775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 470
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a37af18ca2cb90800000000000000
+      internalID: -7223021178096211550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 467
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2be5e2a52c09f220800000000000000
+      internalID: 2520058822276803371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 467
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c66c7052f27390800000000000000
+      internalID: -7821923175290716113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 467
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd52408fce95d80800000000000000
+      internalID: -8261311491468829597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 467
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef2c4a0215973b0800000000000000
+      internalID: -5514287068093415894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 467
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5faa6560bf031350800000000000000
+      internalID: 5986145579995672411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 467
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffedd6e166d611c0800000000000000
+      internalID: -4533200258928349193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 467
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230c08ad392e65c70800000000000000
+      internalID: 8959597633354121266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 467
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d6fa5977b0e5190800000000000000
+      internalID: -7971921682158883549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mute Sound_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 467
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a410a0989dc56ae30800000000000000
+      internalID: 4514397765862293834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mute Sound_0: -1272063829255514324
+      Mute Sound_1: -1782229394531673730
+      Mute Sound_10: -7223021178096211550
+      Mute Sound_11: 2520058822276803371
+      Mute Sound_12: -7821923175290716113
+      Mute Sound_13: -8261311491468829597
+      Mute Sound_14: -5514287068093415894
+      Mute Sound_15: 5986145579995672411
+      Mute Sound_16: -4533200258928349193
+      Mute Sound_17: 8959597633354121266
+      Mute Sound_18: -7971921682158883549
+      Mute Sound_19: 4514397765862293834
+      Mute Sound_2: -4463360276990030130
+      Mute Sound_3: -5487833204961430064
+      Mute Sound_4: 7270813029128216266
+      Mute Sound_5: -6119016944785470896
+      Mute Sound_6: 5033417450334052862
+      Mute Sound_7: -5010934155120901080
+      Mute Sound_8: 8019012326450648552
+      Mute Sound_9: -1771242357407775775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
