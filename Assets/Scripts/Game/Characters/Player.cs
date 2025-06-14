@@ -46,10 +46,9 @@ namespace Game
             }
         }
 
-        public void Die()
-        {
-            SceneLoader.Instance.ReloadScene();
-        }
+        public void Die() => SceneLoader.Instance.ReloadScene();
+
+        public void Win() => SceneLoader.Instance.LoadScene("Main Menu Scene");
 
         private bool SpendPoint(Sensor donor, Sensor receiver)
         {

@@ -44,7 +44,7 @@ namespace Game
             if (animationName == currentState) return;
 
             CharacterAnimation anim = animations.Find(a => a.name == animationName);
-            if (anim != null && anim != currentAnimation)
+            if (anim != null && anim != currentAnimation && spriteRenderer != null)
             {
                 currentAnimation = anim;
                 currentFrame = 0;

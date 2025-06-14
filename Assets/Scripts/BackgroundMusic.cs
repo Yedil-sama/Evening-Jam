@@ -24,7 +24,10 @@ public class BackgroundMusic : MonoBehaviour
 
     private void Start()
     {
-        SettingsCanvas.Instance.OnSoundChange += Set;
+        if (SettingsCanvas.Instance != null)
+        {
+            SettingsCanvas.Instance.OnSoundChange += Set;
+        }
         Set();
     }
 
