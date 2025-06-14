@@ -2,6 +2,7 @@ using UnityEngine;
 
 namespace Game.UI
 {
+    [RequireComponent(typeof(Canvas))]
     public class GameCanvas : MonoBehaviour
     {
         [SerializeField] private Player player;

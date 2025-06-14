@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -10,6 +11,8 @@ namespace MainMenu
         [SerializeField] private Image soundIcon;
         [SerializeField] private Sprite soundOnSprite;
         [SerializeField] private Sprite soundOffSprite;
+
+        public event Action OnSoundChange;
 
         private const string SOUND_PREF_KEY = "Sound";
 
@@ -30,6 +33,13 @@ namespace MainMenu
             soundSlider.onValueChanged.RemoveListener(OnSliderValueChanged);
         }
 
+        public override void Open(bool action)
+        {
+            base.Open(action);
+
+            OnSoundChange?.Invoke();
+        }
+
         public void OnMenuButtonClick()
         {
             if (MenuCanvas.Instance == null) return;
@@ -48,6 +58,8 @@ namespace MainMenu
 
             soundSlider.SetValueWithoutNotify(newVolume);
             UpdateSoundIcon(newVolume);
+
+            OnSoundChange?.Invoke();
         }
 
         public void OnSliderValueChanged(float value)
@@ -57,6 +69,8 @@ namespace MainMenu
             PlayerPrefs.Save();
 
             UpdateSoundIcon(volume);
+
+            OnSoundChange?.Invoke();
         }
 
         private void UpdateSoundIcon(int volume)

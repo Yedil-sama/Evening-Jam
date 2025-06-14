@@ -28,7 +28,7 @@ namespace MainMenu
             Open(!closeOnAwake);
         }
 
-        public void Open(bool action)
+        public virtual void Open(bool action)
         {
             canvas.enabled = action;
 

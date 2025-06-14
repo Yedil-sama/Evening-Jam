@@ -4,10 +4,7 @@ namespace MainMenu
 {
     public class MenuCanvas : UICanvas<MenuCanvas>
     {
-        public void OnPlayButtonClick()
-        {
-
-        }
+        public void OnPlayButtonClick() => SceneLoader.Instance.LoadScene("Game Scene");
 
         public void OnSettingsButtonClick()
         {

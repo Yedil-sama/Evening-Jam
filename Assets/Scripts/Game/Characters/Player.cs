@@ -13,6 +13,15 @@ namespace Game
         private bool isHoldingEar;
         private float adjustTimer;
 
+        protected override void Start()
+        {
+            base.Start();
+            while (healthPoint-- > 1)
+            {
+                SpendPoint(ear, eye);
+            }
+        }
+
         private void Update()
         {
             if (!isHoldingEye && !isHoldingEar) return;
@@ -35,6 +44,11 @@ namespace Game
             {
                 adjustTimer = adjustInterval;
             }
+        }
+
+        public void Die()
+        {
+            SceneLoader.Instance.ReloadScene();
         }
 
         private bool SpendPoint(Sensor donor, Sensor receiver)
